@@ -4,7 +4,7 @@
 
 Is there a way to measure fairness of our machine learning model? Is our model/database biased? 
 
-*   In this notebook, we explore the german credit database
+*   In this [notebook](https://github.com/lipataro/trusthworthy_ML/blob/master/TrustworthyAI.ipynb), we explore the german credit database
 *   A machine learning model is chosen in order to classify good/bad credit 
 *   The **PPV** (positive predictive value) is calculated for both genders in order to see gender bias 
 *   ***Aequitas*** is used in order to calculate the other fairness metrics \
